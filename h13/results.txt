@@ -1,0 +1,43 @@
+TESTING H13--aismail9
+----------------------------------------------------------------------
+Checking function: dataSets -------------------
+   + data/ds0.txt output lines->0->0
+   + data/notfound.txt output lines->1->1
+   + Line #1.->data/notfound.txt cannot be opened.
+   + data/ds3.txt output lines->8->8
+   + Line #1.->data set 1: total values = 11
+   + Line #2.->average value = 5.4000
+   + Line #3.->
+   + Line #4.->data set 2: total values = 13
+   + Line #5.->average value = 8.0923
+   + data/ds2.txt output lines->5->5
+   + Line #1.->data set 1: total values = 8
+   + Line #2.->average value = 9.2000
+   + Line #3.->
+   + Line #4.->data set 2: total values = 19
+   + Line #5.->average value = 4.8368
+   + data/ds10.txt output lines->17->17
+   + Line #1.->data set 1: total values = 8
+   + Line #2.->average value = 1.4000
+   + Line #3.->
+   + Line #4.->data set 2: total values = 6
+   + Line #5.->average value = 5.3000
+   + data/ds11.txt output lines->5->5
+   + Line #1.->data set 1: total values = 7
+   + Line #2.->average value = 5.2429
+   + Line #3.->
+   + Line #4.->data set 2: total values = 8
+   + Line #5.->average value = 6.7000
+   + data/ds4.txt output lines->11->11
+   + Line #1.->data set 1: total values = 16
+   + Line #2.->average value = 9.5062
+   + Line #3.->
+   + Line #4.->data set 2: total values = 11
+   + Line #5.->average value = 6.6909
+----------------------------------------------------------------------
+  Tests passing 33/33 (100%).
+
+----------------------------------------------------------------------
+H13:aismail9:ALL TESTS -- PASS 33/33 (100%).
+----------------------------------------------------------------------
+MTYxNzc1NjQ3MzphaXNtYWlsOTpIMTM6MTAwLjAwJQ==

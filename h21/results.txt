@@ -1,0 +1,12 @@
+TESTING H21--aismail9
+----------------------------------------------------------------------
+Checking function: composite -------------------
+   + composite worked correctly for images/ReyGreenScreen.png
+   + composite worked correctly for images/leaves.png
+----------------------------------------------------------------------
+  Tests passing 2/2 (100%).
+
+----------------------------------------------------------------------
+H21:aismail9:ALL TESTS -- PASS 2/2 (100%).
+----------------------------------------------------------------------
+MTYxODg3MDI2NDphaXNtYWlsOTpIMjE6MTAwLjAwJQ==
