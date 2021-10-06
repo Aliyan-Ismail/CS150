@@ -1,0 +1,14 @@
+TESTING H20--aismail9
+----------------------------------------------------------------------
+Checking function: greenScreen -------------------
+   + greenScreen worked correctly for images/ReyGreenScreen.png
+   + greenScreen worked correctly for images/lego.png
+   + greenScreen worked correctly for images/cpp.jpg
+   + greenScreen worked correctly for images/fence-ivy.jpg
+----------------------------------------------------------------------
+  Tests passing 4/4 (100%).
+
+----------------------------------------------------------------------
+H20:aismail9:ALL TESTS -- PASS 4/4 (100%).
+----------------------------------------------------------------------
+MTYxODgwMzU1MDphaXNtYWlsOTpIMjA6MTAwLjAwJQ==

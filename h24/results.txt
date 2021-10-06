@@ -1,0 +1,47 @@
+INSTRUCTOR TESTING H24--aismail9
+----------------------------------------------------------------------
+Checking function: sameSet -------------------
+   + sameSet({11}, {11, 11, 11})->true
+   + sameSet({1, 4, 9, 16, 9, 7, 4, 9, 11}, {11, 11, 7, 9, 16, 4, 1})->true
+   + sameSet({1, 4, 1}, {11, 11, 7, 9, 16, 4, 1})->false
+   + sameSet({1, 1, 11}, {11, 11, 7})->false
+   + sameSet({1, 4, 9, 16}, {9, 4, 1})->false
+   + sameSet({11, 11}, {11})->true
+   + sameSet({1, 4, 9, 16}, {9, 4, 1})->false
+   + sameSet({11, 11, 550, 650}, {11, 550, 550, 650, 550})->true
+   + sameSet({11, 11, 11, 11, 2}, {2, 2, 2, 11})->true
+   + sameSet({1, 4, 9}, {9, 4, 1, 16})->false
+----------------------------------------------------------------------
+  Tests passing 10/10 (100%).
+
+Checking function: copyEvens -------------------
+   + copyEvens({3, 2, 4, 5, 8})->{2, 4, 8}
+   + bSize->3
+   + copyEvens({6, 1, 2, 4, 5, 8})->{6, 2, 4, 8}
+   + bSize->4
+   + copyEvens({3, 1, 4, 1, 5})->{4}
+   + bSize->1
+   + copyEvens({2})->{2}
+   + bSize->1
+   + copyEvens({6, 2, 4, 8})->{6, 2, 4, 8}
+   + bSize->4
+   + copyEvens({7, 2, 4, 8})->{2, 4, 8}
+   + bSize->3
+   + copyEvens({7, 2, 3, 8})->{2, 8}
+   + bSize->2
+   + copyEvens({1, 8, 4})->{8, 4}
+   + bSize->2
+   + copyEvens({1, 3, 9})->{}
+   + bSize->0
+----------------------------------------------------------------------
+  Tests passing 18/18 (100%).
+
+Checking function: copyEvens Error Check -------------------
+   + copyEvens throws an exception: B is not big enough to store all of the values in A
+----------------------------------------------------------------------
+  Tests passing 1/1 (100%).
+
+----------------------------------------------------------------------
+INSTRUCTOR TESTS H24:aismail9: ALL TESTS -- PASS 29/29 (100%).
+----------------------------------------------------------------------
+MTYyMDE2NjI4NDphaXNtYWlsOTpIMjQ6MTAwLjAwJQ==
