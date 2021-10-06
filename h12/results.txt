@@ -1,0 +1,18 @@
+INSTRUCTOR TESTING H12--aismail9
+----------------------------------------------------------------------
+Checking function: Checking the strip function. -------------------
+   + Single line comment removed->#include <iostream> \n#include <string> \n
+   + Comment embedded in string not removed->    cout << "/* this is ok " << endl;
+   + Strings in comments removed; newlines retained->\n\n#include <iostream>  \n
+   + More string-embedded comments retained->char * s = "Some text /* with an embedded */ // comment ";
+   + Same-line paired comments removed->int main(int argc , argv[] )
+   + Escaped quotes and comments in a string:->string s = "\"hello\"";  string s2 = "bye"; 
+   + More escaped quotes inside a string->string s = "\"//not a comment\"//not a comment";
+   + Doxygen comments removed->int a=3;\nvoid strip();\n
+----------------------------------------------------------------------
+  Tests passing 8/8 (100%).
+
+----------------------------------------------------------------------
+INSTRUCTOR TESTS H12:aismail9: ALL TESTS -- PASS 8/8 (100%).
+----------------------------------------------------------------------
+MTYxNTkyMjE4OTphaXNtYWlsOTpIMTI6MTAwLjAwJQ==

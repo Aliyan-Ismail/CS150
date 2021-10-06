@@ -1,0 +1,25 @@
+INSTRUCTOR TESTING H05--aismail9
+----------------------------------------------------------------------
+Checking function: toFrenchGender("country") -------------------
+   + toFrenchGender("Slovenie")->la Slovenie
+   + toFrenchGender("Pays-Bas")->les Pays-Bas
+   + toFrenchGender("Autriche")->l'Autriche
+   + toFrenchGender("Monaco")->Monaco
+   + toFrenchGender("Espagne")->l'Espagne
+   + toFrenchGender("Etats-Unis")->les Etats-Unis
+   + toFrenchGender("Bahamas")->les Bahamas
+   + toFrenchGender("Liechtenstein")->le Liechtenstein
+   + toFrenchGender("Cuba")->Cuba
+   + toFrenchGender("Bresil")->le Bresil
+   + toFrenchGender("Portugal")->le Portugal
+   + toFrenchGender("Surinam")->le Surinam
+   + toFrenchGender("Belgique")->la Belgique
+   + toFrenchGender("France")->la France
+   + toFrenchGender("iles Galapagos")->les iles Galapagos
+----------------------------------------------------------------------
+  Tests passing 15/15 (100%).
+
+----------------------------------------------------------------------
+INSTRUCTOR TESTS H05:aismail9: ALL TESTS -- PASS 15/15 (100%).
+----------------------------------------------------------------------
+MTYxMzA5MDU4NzphaXNtYWlsOTpIMDU6MTAwLjAwJQ==

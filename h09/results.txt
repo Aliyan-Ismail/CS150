@@ -1,0 +1,44 @@
+INSTRUCTOR TESTING H09--aismail9
+----------------------------------------------------------------------
+Checking function: Tests for toRoman() -------------------
+   + toRoman(0)->OUT OF RANGE
+   + toRoman(2963)->MMCMLXIII
+   + toRoman(1568)->MDLXVIII
+   + toRoman(3011)->MMMXI
+   + toRoman(5)->V
+   + toRoman(4250)->OUT OF RANGE
+   + toRoman(883)->DCCCLXXXIII
+   + toRoman(613)->DCXIII
+   + toRoman(1625)->MDCXXV
+   + toRoman(1588)->MDLXXXVIII
+----------------------------------------------------------------------
+  Tests passing 10/10 (100%).
+
+Checking function: Tests for ones() -------------------
+   + ones(9)->IX
+   + ones(2)->II
+   + ones(3)->III
+   + ones(6)->VI
+----------------------------------------------------------------------
+  Tests passing 4/4 (100%).
+
+Checking function: Tests for tens() -------------------
+   + tens(7)->LXX
+   + tens(1)->X
+   + tens(9)->XC
+   + tens(6)->LX
+----------------------------------------------------------------------
+  Tests passing 4/4 (100%).
+
+Checking function: Tests for hundreds() -------------------
+   + hundreds(9)->CM
+   + hundreds(1)->C
+   + hundreds(8)->DCCC
+   + hundreds(4)->CD
+----------------------------------------------------------------------
+  Tests passing 4/4 (100%).
+
+----------------------------------------------------------------------
+INSTRUCTOR TESTS H09:aismail9: ALL TESTS -- PASS 22/22 (100%).
+----------------------------------------------------------------------
+MTYxNDkxMTc0MjphaXNtYWlsOTpIMDk6MTAwLjAwJQ==

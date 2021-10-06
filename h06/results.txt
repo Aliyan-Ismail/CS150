@@ -1,0 +1,26 @@
+INSTRUCTOR TESTING H06--aismail9
+----------------------------------------------------------------------
+Checking function: sumNums("str") -------------------
+   + sumNums("h3pn6f291fh5l7v9i2i")
+   + sumNums("")
+   + sumNums("93")
+   + sumNums("4p5q4g49o7j0")
+   + sumNums("a1234bb11")
+   + sumNums("rj4xubf2")
+   + sumNums("hiez6ic3")
+   + sumNums("hdv00lb324eie")
+   + sumNums("abc123xyz")
+   + sumNums("5hoco1a1e")
+   + sumNums("d36")
+   + sumNums("vll2013s")
+   + sumNums("7zh")
+   + sumNums("i3i110h9")
+   + sumNums("ws569o85oqwrp75om1")
+   + sumNums("bz09napfqxie")
+----------------------------------------------------------------------
+  Tests passing 16/16 (100%).
+
+----------------------------------------------------------------------
+INSTRUCTOR TESTS H06:aismail9: ALL TESTS -- PASS 16/16 (100%).
+----------------------------------------------------------------------
+MTYxMzYyOTc1MzphaXNtYWlsOTpIMDY6MTAwLjAwJQ==

@@ -1,0 +1,28 @@
+TESTING H11--aismail9
+----------------------------------------------------------------------
+Checking function: Recursive find. -------------------
+   + find("Mississipi", "ipi")
+   + find("Mississipi", "ipx")
+   + find("Sommertown", "Som")
+   + find("Sommertown", "Sommertowne")
+   + find("Somewhere in the middle", "in")
+   + find("Alice in Wonderland", "Alice")
+   + find("Ordinal", "Ordinale")
+   + find("Eenie meenie miney moe", "min")
+----------------------------------------------------------------------
+  Tests passing 8/8 (100%).
+
+Checking function: Recursive stringClean -------------------
+   + stringClean("yyzzza"): Success
+   + stringClean("abbbcdd"): Success
+   + stringClean("Hello"): Success
+   + stringClean("XXabcYY"): Success
+   + stringClean("112ab445"): Success
+   + stringClean("Hello Bookkeeper"): Success
+----------------------------------------------------------------------
+  Tests passing 6/6 (100%).
+
+----------------------------------------------------------------------
+H11:aismail9:ALL TESTS -- PASS 14/14 (100%).
+----------------------------------------------------------------------
+MTYxNTUxNDMwNjphaXNtYWlsOTpIMTE6MTAwLjAwJQ==
