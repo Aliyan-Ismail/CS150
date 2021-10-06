@@ -1,0 +1,37 @@
+TESTING H33--aismail9
+----------------------------------------------------------------------
+Checking function: Checking the Circle Class. -------------------
+   + Circle c(20, 50, 60); object size->32
+   + c.getX()->50
+   + c.getY()->60
+   + c.getRadius()->20
+   + c.move(100, 75); c.getX()->150
+   + c.move(100, 75); c.getY()->135
+   + c.getArea()->1256.64
+   + c.getCircumference()->125.664
+   + c.toString()->"Circle(radius=20.00, center=Point(150.00, 135.00))"
+   + c.toString(0)->"Circle(radius=20, center=Point(150, 135))"
+----------------------------------------------------------------------
+  Tests passing 10/10 (100%).
+
+Checking function: Checking the Cylinder Class. -------------------
+   + Cylinder should have 4 fields (including inherited fields).->40
+   + Cylinder c1(15, 20, 50, 60); object size->40
+   + c1.getX()->50
+   + c1.getY()->60
+   + c1.getRadius()->20
+   + c1.getHeight()->15
+   + c1.move(100, 75); c1.getX()->150
+   + c1.move(100, 75); c1.getY()->135
+   + c1.getCircumference()->125.664
+   + c1.getArea()->4398.23
+   + c1.getVolume()->18849.6
+   + c1.toString()->"Cylinder(height=15.00, base=Circle(radius=20.00, center=Point(150.00, 135.00)))"
+   + c1.toString(0)->"Cylinder(height=15, base=Circle(radius=20, center=Point(150, 135)))"
+----------------------------------------------------------------------
+  Tests passing 13/13 (100%).
+
+----------------------------------------------------------------------
+H33:aismail9:ALL TESTS -- PASS 23/23 (100%).
+----------------------------------------------------------------------
+MTYyMTg3MjAxODphaXNtYWlsOTpIMzM6MTAwLjAwJQ==

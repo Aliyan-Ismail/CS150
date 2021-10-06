@@ -1,0 +1,32 @@
+INSTRUCTOR TESTING H32--aismail9
+----------------------------------------------------------------------
+Checking function: operator[] -------------------
+   + img[0]->(255, 255, 255, 255)
+   + img[75354]->(255, 222, 21, 255)
+   + img[55709]->(255, 222, 21, 255)
+   + img[51636]->(255, 222, 21, 255)
+   + img[71783]->(25, 64, 245, 55)
+   + img[49108]->(26, 65, 246, 55)
+   + img[57800]->(27, 66, 247, 55)
+   + Correctly catches out_of_range.
+----------------------------------------------------------------------
+  Tests passing 8/8 (100%).
+
+Checking function: translate -------------------
+   + translate(50, 0) works correctly.
+   + translate(-72, 0) works correctly.
+   + translate(385, 0) works correctly.
+   + translate(-415, 0) works correctly.
+   + translate(0, 88) works correctly.
+   + translate(0, -93) works correctly.
+   + translate(0, 425) works correctly.
+   + translate(0, -465) works correctly.
+   + translate(83, 91) works correctly.
+   + translate(-91, 151) works correctly.
+----------------------------------------------------------------------
+  Tests passing 10/10 (100%).
+
+----------------------------------------------------------------------
+INSTRUCTOR TESTS H32:aismail9: ALL TESTS -- PASS 18/18 (100%).
+----------------------------------------------------------------------
+MTYyMTkwNTk1ODphaXNtYWlsOTpIMzI6MTAwLjAwJQ==

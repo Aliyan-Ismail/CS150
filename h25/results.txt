@@ -1,0 +1,31 @@
+INSTRUCTOR TESTING H25--aismail9
+----------------------------------------------------------------------
+Checking function: The reverse Procedure -------------------
+   + Reverse abcdefg.->gfedcba
+   + Reverse empty String.->0
+   + Reverse "abc".->cba
+   + Reverse "xy" OK.->yx
+   + Reverse "wxyz" OK.->zyxw
+   + Reverse "xyz" twice OK->xyz
+   + Reverse a long string.->some very long string filled with meaningless words.
+----------------------------------------------------------------------
+  Tests passing 7/7 (100%).
+
+Checking function: Test your findStr function. -------------------
+   + Find at beginning.->true
+   + Find at end.->true
+   + Find anything->Sote soma some something somantha solly sonny
+   + Find some->some something somantha solly sonny
+   + Find soman->somantha solly sonny
+   + Find som->soma some something somantha solly sonny
+   + Find something->something somantha solly sonny
+   + Find solly->solly sonny
+   + Find thing->thing somantha solly sonny
+   + Not found.
+----------------------------------------------------------------------
+  Tests passing 10/10 (100%).
+
+----------------------------------------------------------------------
+INSTRUCTOR TESTS H25:aismail9: ALL TESTS -- PASS 17/17 (100%).
+----------------------------------------------------------------------
+MTYyMDc3MTY4MDphaXNtYWlsOTpIMjU6MTAwLjAwJQ==

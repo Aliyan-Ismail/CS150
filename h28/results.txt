@@ -1,0 +1,18 @@
+INSTRUCTOR TESTING H28--aismail9
+----------------------------------------------------------------------
+Checking function: Testing Bugs -------------------
+   + Constructing sam at position 2->2
+   + Constructing julie at position 12->12
+   + Constructing fred at position -10->-10
+   + Moving sam one to the right.->3
+   + Moving sam one more to the right.->4
+   + Moving fred one to the left.->-11
+   + Moving fred one more to the left.->-12
+   + Moving fred back two places to the right.->-10
+----------------------------------------------------------------------
+  Tests passing 8/8 (100%).
+
+----------------------------------------------------------------------
+INSTRUCTOR TESTS H28:aismail9: ALL TESTS -- PASS 8/8 (100%).
+----------------------------------------------------------------------
+MTYyMTM3Njg5MDphaXNtYWlsOTpIMjg6MTAwLjAwJQ==

@@ -1,0 +1,64 @@
+TESTING H31--aismail9
+----------------------------------------------------------------------
+Checking function: Fraction constructors -------------------
+   + (zero numerator)-> 0
+   + (zero denominator)-> 1
+   + (one numerator)-> 1
+   + (one denominator)-> 1
+   + (oneThird numerator)-> 1
+   + (oneThird denominator)-> 3
+   + (threeFourths numerator)-> 3
+   + (threeFourths denominator)-> 4
+----------------------------------------------------------------------
+  Tests passing 8/8 (100%).
+
+Checking function: Fraction::toString() -------------------
+   + (zero toString)-> 0
+   + (one toString)-> 1
+   + (oneThird toString)-> 1/3
+   + (threeFourths toString)-> 3/4
+----------------------------------------------------------------------
+  Tests passing 4/4 (100%).
+
+Checking function: Fraction addition -------------------
+   + (3/4 + 1)-> 7/4
+   + (threeFourths += oneThird)-> 13/12
+   + (1/3 + 0)-> 1/3
+   + (1/3 + 3/4)-> 13/12
+   + (1/3 + 1 + 3/4)-> 25/12
+   + (1/3 + 1/3 + 1/3)-> 1
+----------------------------------------------------------------------
+  Tests passing 6/6 (100%).
+
+Checking function: Fraction subtraction -------------------
+   + (3/4 - 1)-> -1/4
+   + (threeFourths -= 1)-> -1/4
+   + (3/4 - 1/3)-> 5/12
+   + (1 - 1/3)-> 2/3
+   + (1/3 - 1/3)-> 0
+----------------------------------------------------------------------
+  Tests passing 5/5 (100%).
+
+Checking function: Fraction multiplication -------------------
+   + (3/4 * 1/4)-> 1/2
+   + (threeFourths += 1/4)-> 1
+   + (3/4 * 1/3)-> 1/4
+   + (1 * 1/3)-> 1/3
+   + (1/3 * 3)-> 1
+----------------------------------------------------------------------
+  Tests passing 5/5 (100%).
+
+Checking function: Fraction division -------------------
+   + (3/4 / 1/4)-> 3
+   + (3/4 / 1/3)-> 9/4
+   + (1 / 1/3)-> 3
+   + (one /= 1/3)-> 3
+   + (1 / 1/3)-> 3
+   + (1/3 / 3)-> 1/9
+----------------------------------------------------------------------
+  Tests passing 6/6 (100%).
+
+----------------------------------------------------------------------
+H31:aismail9:ALL TESTS -- PASS 34/34 (100%).
+----------------------------------------------------------------------
+MTYyMTMwNDg1MTphaXNtYWlsOTpIMzE6MTAwLjAwJQ==

@@ -1,0 +1,14 @@
+INSTRUCTOR TESTING H29--aismail9
+----------------------------------------------------------------------
+Checking function: Test the Employee class -------------------
+   + Salary initialized in default ctor->0.000000
+   + Working ctor initializes salary->1755235.250000
+   + Working ctor initializes name->Quentin Tarantino
+   + salary() mutator correcly sets salary->75932.630000
+----------------------------------------------------------------------
+  Tests passing 4/4 (100%).
+
+----------------------------------------------------------------------
+INSTRUCTOR TESTS H29:aismail9: ALL TESTS -- PASS 4/4 (100%).
+----------------------------------------------------------------------
+MTYyMTM3Njc1ODphaXNtYWlsOTpIMjk6MTAwLjAwJQ==

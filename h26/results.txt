@@ -1,0 +1,41 @@
+INSTRUCTOR TESTING H26--aismail9
+----------------------------------------------------------------------
+Checking function: readData and toString -------------------
+   + Correct number of values read.->2
+   + toString->{8, 9}
+   + Checking first value. (-1 if nullptr)->8
+   + Checking last value. (-1 if nullptr)->9
+   + Checking for corrupted memory
+   + Memory shrunk to correct size
+   + Memory leaks.
+   + Correct number of values read.->0
+   + toString->{}
+   + Checking for corrupted memory
+   + Memory shrunk to correct size
+   + Memory leaks.
+   + Correct number of values read.->1
+   + toString->{42}
+   + Checking for corrupted memory
+   + Memory shrunk to correct size
+   + Memory leaks.
+   + Correct number of values read.->13
+   + toString->{12, 15, 17, 18, 19, 5, 75, 3, -2, 85, 93, 27, 33}
+   + Checking first value. (-1 if nullptr)->12
+   + Checking last value. (-1 if nullptr)->33
+   + Checking for corrupted memory
+   + Memory shrunk to correct size
+   + Memory leaks.
+   + Correct number of values read.->3
+   + toString->{5, 6, 7}
+   + Checking first value. (-1 if nullptr)->5
+   + Checking last value. (-1 if nullptr)->7
+   + Checking for corrupted memory
+   + Memory shrunk to correct size
+   + Memory leaks.
+----------------------------------------------------------------------
+  Tests passing 31/31 (100%).
+
+----------------------------------------------------------------------
+INSTRUCTOR TESTS H26:aismail9: ALL TESTS -- PASS 31/31 (100%).
+----------------------------------------------------------------------
+MTYyMDc3MjU4NDphaXNtYWlsOTpIMjY6MTAwLjAwJQ==

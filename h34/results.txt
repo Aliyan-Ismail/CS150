@@ -1,0 +1,32 @@
+TESTING H34--aismail9
+----------------------------------------------------------------------
+Checking function: Checking the Worker class. -------------------
+   + Checking size of Worker->48
+   + Worker class is abstract
+----------------------------------------------------------------------
+  Tests passing 6/6 (100%).
+
+Checking function: Checking the SalariedWorker classes. -------------------
+   + Checking for extra fields in SalariedWorker->48
+   + Checking inherited getName() method.: Success
+   + Checking inherited getRate() method.; p->getRate()
+   + Checking less than 40 hours.: Success
+   + Checking more than 40 hours.: Success
+   + Checking 40 hours.: Success
+----------------------------------------------------------------------
+  Tests passing 6/6 (100%).
+
+Checking function: Checking the HourlyWorker classes. -------------------
+   + Checking for extra fields in HourlyWorker->48
+   + Checking inherited getName() method.: Success
+   + Checking inherited getRate() method.; p->getRate()
+   + Checking less than 40 hours.: Success
+   + Checking more than 40 hours.: Success
+   + Checking 40 hours.: Success
+----------------------------------------------------------------------
+  Tests passing 6/6 (100%).
+
+----------------------------------------------------------------------
+H34:aismail9:ALL TESTS -- PASS 18/18 (100%).
+----------------------------------------------------------------------
+MTYyMTkwODM2NjphaXNtYWlsOTpIMzQ6MTAwLjAwJQ==
